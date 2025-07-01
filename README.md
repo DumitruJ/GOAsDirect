@@ -2,7 +2,7 @@
 
 GOAsDirect is a modern, agency-focused alternative to WordPress, designed for rapid deployment of React, Next.js, and Astro-powered websites and webapps. It leverages a headless architecture with Directus for content management and Go for backend orchestration.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 AstroCMS/
@@ -14,7 +14,7 @@ AstroCMS/
 └── docs/       # Documentation
 ```
 
-## 🏗️ Directory Purpose
+## Directory Purpose
 
 - **frontend/**: Source code for the React dashboard, wrapped with Tauri for desktop use. Handles user interface, client management, and site building.
 - **backend/**: Go-based API server for authentication, multi-tenant logic, and orchestration between services.
@@ -23,7 +23,7 @@ AstroCMS/
 - **deploy/**: Scripts and configuration for deployment automation (Vercel, Netlify, etc.).
 - **docs/**: All project documentation, architecture decisions, and guides.
 
-## 🧩 High-Level Architecture
+## High-Level Architecture
 
 - **Frontend**: React + Vite + TailwindCSS, Tauri desktop wrapper
 - **Backend**: Go API server, connects frontend, Directus, and builder
@@ -31,7 +31,7 @@ AstroCMS/
 - **Site Builder**: Astro for static/dynamic site generation
 - **Deployment**: Automated scripts for modern hosting platforms
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository
 2. See each directory's README for setup instructions (coming soon)
