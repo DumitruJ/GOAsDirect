@@ -1,6 +1,6 @@
-# AstroCMS: Modern WordPress Alternative
+# GOAsDirect: Modern WordPress Alternative
 
-AstroCMS is a modern, agency-focused alternative to WordPress, designed for rapid deployment of React, Next.js, and Astro-powered websites and webapps. It leverages a headless architecture with Directus for content management and Go for backend orchestration.
+GOAsDirect is a modern, agency-focused alternative to WordPress, designed for rapid deployment of React, Next.js, and Astro-powered websites and webapps. It leverages a headless architecture with Directus for content management and Go for backend orchestration.
 
 ## 📁 Project Structure
 
